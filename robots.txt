@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Huatte.github.io/archive-w9e76z/sitemap.xml
